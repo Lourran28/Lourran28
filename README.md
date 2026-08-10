@@ -42,27 +42,27 @@ Sou Lourran Silva, estudante de Sistemas de Informação e desenvolvedor em form
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Lourran28/Projeto_Yan_Barbeiro">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lourran28&repo=Projeto_Yan_Barbeiro&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117" alt="Projeto Yan Barbeiro" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lourran28/Projeto_Yan_Barbeiro">Projeto Yan Barbeiro</a></h3>
+      <p>Experiência web para uma barbearia, construída para praticar páginas modernas e interativas.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/Lourran28/Dark-Souls-2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lourran28&repo=Dark-Souls-2&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117" alt="Dark Souls 2" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lourran28/Dark-Souls-2">Dark Souls 2</a></h3>
+      <p>Site temático publicado no GitHub Pages, com foco em HTML, CSS e apresentação visual.</p>
+      <a href="https://lourran28.github.io/Dark-Souls-2/"><img src="https://img.shields.io/badge/Ver%20online-F97316?style=flat-square&logo=githubpages&logoColor=white" alt="Ver projeto online" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Lourran28/simulacao-web">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lourran28&repo=simulacao-web&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117" alt="Simulacao Web" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lourran28/simulacao-web">Simulação Web</a></h3>
+      <p>Projeto acadêmico de Introdução à Tecnologia Web no curso de Sistemas de Informação.</p>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
-    <td width="50%">
-      <a href="https://github.com/Lourran28/Python">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lourran28&repo=Python&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117" alt="Python" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lourran28/Python">Python</a></h3>
+      <p>Exercícios e pequenos projetos para fortalecer lógica, fundamentos e resolução de problemas.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
 </table>
@@ -70,8 +70,9 @@ Sou Lourran Silva, estudante de Sistemas de Informação e desenvolvedor em form
 ## GitHub em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lourran28&show_icons=true&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub de Lourran28" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lourran28&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E&text_color=E5E7EB&bg_color=0D1117&locale=pt-br" alt="Linguagens mais usadas de Lourran28" />
+  <a href="https://github.com/Lourran28?tab=repositories"><img src="https://img.shields.io/badge/6-Repositórios%20públicos-0EA5E9?style=for-the-badge&logo=github" alt="6 repositórios públicos" /></a>
+  <a href="https://github.com/Lourran28?tab=followers"><img src="https://img.shields.io/github/followers/Lourran28?style=for-the-badge&logo=github&label=Seguidores&color=22C55E" alt="Seguidores no GitHub" /></a>
+  <a href="https://lourran28.github.io/Dark-Souls-2/"><img src="https://img.shields.io/badge/1-Projeto%20publicado-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="1 projeto publicado" /></a>
 </p>
 
 ## Agora
