@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:22C55E,100:F97316&text=Lourran%20Silva&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Java%20%7C%20React%20%7C%20C%20%7C%20Bancos%20de%20dados&descAlignY=58&animation=fadeIn" alt="Lourran " />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:22C55E,100:F97316&text=Lourran%20Silva&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Java%20%7C%20React%20%7C%20C%20%7C%20Bancos%20de%20dados&descAlignY=58&animation=fadeIn" alt="Lourran" />
 
 <p align="center">
   <a href="https://github.com/Lourran28">
