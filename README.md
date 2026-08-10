@@ -26,7 +26,7 @@ A parte que mais gosto é o desenvolvimento front-end, principalmente por poder 
 
 - Estudando Java como linguagem principal
 - Focado no ecossistema React e na criação de interfaces web
-- Já pratiquei C puro, Python, HTML, CSS e JavaScript
+- Já pratiquei C, React, Python, HTML, CSS e JavaScript
 - Aprendendo modelagem, consultas e integração com bancos de dados
 - Objetivo: evoluir para aplicações cada vez mais completas e bem estruturadas
 
