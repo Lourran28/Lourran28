@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/Lourran28?style=for-the-badge&logo=github&label=Seguidores&color=0EA5E9" alt="Seguidores no GitHub" />
   </a>
   <a href="https://github.com/Lourran28?tab=repositories">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-6-22C55E?style=for-the-badge&logo=github" alt="Repositórios públicos" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-7-22C55E?style=for-the-badge&logo=github" alt="Repositórios públicos" />
   </a>
   <a href="https://lourran28.github.io/Dark-Souls-2/">
     <img src="https://img.shields.io/badge/Projeto%20online-Dark%20Souls%202-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="Projeto Dark Souls 2 online" />
@@ -75,7 +75,7 @@ Sou Lourran Silva, estudante de Sistemas de Informação e desenvolvedor em form
 ## GitHub em números
 
 <p align="center">
-  <a href="https://github.com/Lourran28?tab=repositories"><img src="https://img.shields.io/badge/6-Repositórios%20públicos-0EA5E9?style=for-the-badge&logo=github" alt="6 repositórios públicos" /></a>
+  <a href="https://github.com/Lourran28?tab=repositories"><img src="https://img.shields.io/badge/7-Repositórios%20públicos-0EA5E9?style=for-the-badge&logo=github" alt="7 repositórios públicos" /></a>
   <a href="https://github.com/Lourran28?tab=followers"><img src="https://img.shields.io/github/followers/Lourran28?style=for-the-badge&logo=github&label=Seguidores&color=22C55E" alt="Seguidores no GitHub" /></a>
   <a href="https://lourran28.github.io/Dark-Souls-2/"><img src="https://img.shields.io/badge/1-Projeto%20publicado-F97316?style=for-the-badge&logo=githubpages&logoColor=white" alt="1 projeto publicado" /></a>
 </p>
