@@ -20,7 +20,9 @@
 
 ## Sobre mim
 
-Sou Lourran Silva, estudante de Sistemas de Informação e desenvolvedor em formação. Atualmente, meu foco principal é Java e desenvolvimento web com React. Também tenho experiência de estudo e prática com C puro, Python, tecnologias front-end e bancos de dados.
+Meu nome é Lourran, sou estudante de Sistemas de Informação e desenvolvedor em formação. Gosto de aprender na prática, criando projetos e buscando melhorar cada vez mais minhas habilidades na área de tecnologia. Tenho conhecimentos básicos em programação, desenvolvimento de sistemas e bancos de dados.
+
+A parte que mais gosto é o desenvolvimento front-end, principalmente por poder transformar ideias em interfaces bonitas, organizadas e fáceis de usar. Estou sempre estudando, praticando e criando novos projetos para evoluir como desenvolvedor.
 
 - Estudando Java como linguagem principal
 - Focado no ecossistema React e na criação de interfaces web
